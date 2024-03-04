@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.safwan.tv",
+      "sha256_cert_fingerprints": [
+        "A3:E0:88:78:DE:11:77:A9:41:71:4B:F1:16:81:DA:6F:C0:59:DD:58:5F:07:5B:6A:96:40:9B:D1:31:F8:A5:8B"
+      ]
+    }
+  }
+]
